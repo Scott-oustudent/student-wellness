@@ -1,0 +1,1 @@
+[![NodeJS with Webpack](https://github.com/Scott-oustudent/student-wellness/actions/workflows/webpack.yml/badge.svg)](https://github.com/Scott-oustudent/student-wellness/actions/workflows/webpack.yml)
